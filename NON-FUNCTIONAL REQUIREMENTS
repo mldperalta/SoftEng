@@ -1,0 +1,16 @@
+NON-FUNCTIONAL REQUIREMENTS
+
+USABILITY
+It is easy to use because the user can see the schedule of their work and the task that is done in specific date.
+
+SECURITY
+It has a log-in function to prevent others from seeing others schedule.
+
+AVAILABILITY 
+The user can only use the job scheduling system in computer.
+
+RELIABILITY
+No one other than the user can open the system so the only one who can change the data or schedules in the system is the user.
+
+RESPONSE TIME
+When you enter a data for schedule it only takes a few seconds to save it.
