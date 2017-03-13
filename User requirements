@@ -1,0 +1,13 @@
+ser Requirements for Job Scheduler
+  
+•	The Job Scheduler has an Admin that can manipulate the Users or the Job Leader. 
+•	User can create a job and manipulate it.
+•	The Admin can view the status of the Job. 
+•	The Admin can print the active and the inactive jobs.
+
+System requirements for Job Scheduler
+1. The system must be able to schedule jobs
+2. It should have a priority level in every inserted job.
+3. A report shall be created for each job and shall list the user and what are the jobs that are assign to them.
+4. Access to all job reports shall be restricted to authorized users listed on a management access control list.
+5. The system should show the status of every job of every users.
