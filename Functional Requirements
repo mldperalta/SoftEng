@@ -1,0 +1,42 @@
+Functional Requirements
+Admin
+1.0 Login
+The admin is prompted to enter username and password
+1.1	Forget Password
+The Admin may change the password if password is forgotten.
+2.0 Create job schedule
+2.1 Add Job
+The admin is prompted to add a specific job
+2.2 Edit Job
+The admin may select a different job.
+2.3 Delete Job
+The admin may delete a specific Job
+2.4 Schedule
+The admin is prompted to input the start date and end date for a job
+The admin is prompted to input a start time for the job and the end time for a job
+3.0 Status
+The admin can view the status of the job, if it is completed or not.
+4.0 Print Report
+The admin can view the report of the job.
+
+
+
+
+
+User
+1.0 Login
+The User is prompted to enter username and password
+1.2	Forget Password
+The User may change the password if password is forgotten.
+2.0 Create job schedule
+2.1 Add Job
+The User is prompted to add a specific job
+2.2 Edit Job
+The User may select a different job.
+2.3 Schedule
+The User is prompted to input the start date and end date for a job
+The User is prompted to input a start time for the job and the end time for a job
+3.0 Status
+The User can view the status of the job, if it is completed or not.
+4.0 Print Report
+The User can view the report of the job.
